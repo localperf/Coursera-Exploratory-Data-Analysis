@@ -1,0 +1,4 @@
+:q
+test.txt
+:wq
+:wq
